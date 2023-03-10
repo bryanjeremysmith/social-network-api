@@ -36,6 +36,13 @@ Friends Demonstration
 
 [Friends.webm](https://user-images.githubusercontent.com/113069298/224433453-d64c917b-4807-4879-9c0f-e0c4cc0cec78.webm)
 
+
+Thoughts Demonstration
+
+[Thoughts.webm](https://user-images.githubusercontent.com/113069298/224436492-d80ac8ed-8740-4768-9682-4fbd3cbc5b3a.webm)
+
+
+
 ## License 
 
 This project is covered under the following license: MIT License
