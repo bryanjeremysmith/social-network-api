@@ -28,8 +28,13 @@ To run the server, run:
 <pre>node server.js</pre>
 
 Users Demonstration
-[Untitled_ Mar 10, 2023 1_30 PM.webm](https://user-images.githubusercontent.com/113069298/224432707-2bcf05b8-b6f1-4080-b483-78e688b76ab8.webm)
 
+[Users.webm](https://user-images.githubusercontent.com/113069298/224433496-89f1e43a-857d-4537-b7e9-5b0f89065e95.webm)
+
+
+Friends Demonstration
+
+[Friends.webm](https://user-images.githubusercontent.com/113069298/224433453-d64c917b-4807-4879-9c0f-e0c4cc0cec78.webm)
 
 ## License 
 
