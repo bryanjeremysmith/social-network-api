@@ -4,7 +4,7 @@
 
 ## Description
 
-This Social Network API allows users to publicly communicate with each other by creating thoughts and reactioning to those thoughts. This project uses MongoDB, Mongoose, and we use Insomnia to insert data into our database.
+This Social Network API allows users to publicly communicate with each other by creating thoughts and reacting to those thoughts. This project uses MongoDB, Mongoose, and we use Insomnia to insert data into our database and to exercise the routes.
 
 ## Table of Contents
 
