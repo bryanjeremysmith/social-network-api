@@ -27,6 +27,10 @@ To run the server, run:
 
 <pre>node server.js</pre>
 
+Users Demonstration
+[Untitled_ Mar 10, 2023 1_30 PM.webm](https://user-images.githubusercontent.com/113069298/224432707-2bcf05b8-b6f1-4080-b483-78e688b76ab8.webm)
+
+
 ## License 
 
 This project is covered under the following license: MIT License
